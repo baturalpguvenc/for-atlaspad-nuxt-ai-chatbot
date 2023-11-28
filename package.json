@@ -8,10 +8,10 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.13",
+    "autoprefixer": "^10.4.16",
     "nuxt": "^3.2.0",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.6"
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
   },
   "dependencies": {
     "eventsource-parser": "^0.1.0",
